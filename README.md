@@ -17,3 +17,5 @@ To track and optimize marketing effectiveness by analyzing cost efficiency, enga
 - Identify high-performing campaigns and underperformers
 - Monitor trends in revenue and orders over time
 - Optimize budget allocation based on cost and return metrics
+
+<img width="651" height="831" alt="Marketing_KPI_Dashboard" src="https://github.com/user-attachments/assets/c34b847e-5cef-4955-a2cd-62dc73909336" />
